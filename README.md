@@ -2,7 +2,7 @@
 
 ###### Description
 
-Springbok Lite (final name TBD) should provide a framework and the basic IP for constructing power-efficient cache-coherent hardware accelerated compute enclaves, with a focus on security and extensibility. It should not place any hard requirements upon the IP integrator to use any particular CPU or ISA, or any particular hardware accelerator IP blocks.
+Malamute (final name TBD) should provide a framework and the basic IP for constructing power-efficient cache-coherent hardware accelerated compute enclaves, with a focus on security and extensibility. It should not place any hard requirements upon the IP integrator to use any particular CPU or ISA, or any particular hardware accelerator IP blocks.
 
 ### Project Status
 
